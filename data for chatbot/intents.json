@@ -1,0 +1,375 @@
+{
+    "videos": [
+      {
+        "title": "Understanding Depression",
+        "url": "https://www.youtube.com/watch?v=XiCrniLQGYc"
+      },
+      {
+        "title": "Anxiety: Understanding the Basics",
+        "url": "https://www.youtube.com/watch?v=8xWbVTJZwvA"
+      },
+      {
+        "title": "Yoga for Stress Relief",
+        "url": "https://www.youtube.com/watch?v=8dLEwhSBcX8"
+      },
+      {
+        "title": "Meditation for Beginners",
+        "url": "https://www.youtube.com/watch?v=wirV265ZYSw"
+      },
+      {
+        "title": "Coping with Anxiety: Breathing Techniques",
+        "url": "https://www.youtube.com/watch?v=n9xUw5EX5Wo"
+      },
+      {
+        "title": "Overcoming Depression: Finding Hope",
+        "url": "https://www.youtube.com/watch?v=1ZTxUsj0DFM"
+      },
+      {
+        "title": "Yoga for Relaxation: 20 Minute Flow",
+        "url": "https://www.youtube.com/watch?v=qTGTIh7qLpY"
+      },
+      {
+        "title": "Introduction to Mindfulness Meditation",
+        "url": "https://www.youtube.com/watch?v=3nwwKbM_vJc"
+      },
+      {
+        "title": "Dealing with Panic Attacks",
+        "url": "https://www.youtube.com/watch?v=bsJkCikRmGE"
+      },
+      {
+        "title": "Managing Stress with Meditation",
+        "url": "https://www.youtube.com/watch?v=3T_eEODlTbw"
+      },
+      {
+        "title": "Depression: Signs and Symptoms",
+        "url": "https://www.youtube.com/watch?v=XXxV3HiCQvo"
+      },
+      {
+        "title": "Yoga for Anxiety: Gentle Practice",
+        "url": "https://www.youtube.com/watch?v=EGjMpxWlGXU"
+      },
+      {
+        "title": "Guided Meditation for Positive Energy",
+        "url": "https://www.youtube.com/watch?v=PWc2WZwzY_c"
+      },
+      {
+        "title": "Understanding Social Anxiety",
+        "url": "https://www.youtube.com/watch?v=bVqTdP7bJAI"
+      },
+      {
+        "title": "Yoga for Inner Peace",
+        "url": "https://www.youtube.com/watch?v=VG3fWp9wTPc"
+      },
+      {
+        "title": "Introduction to Loving-Kindness Meditation",
+        "url": "https://www.youtube.com/watch?v=SAp80Q9YbPE"
+      },
+      {
+        "title": "Cognitive Behavioral Therapy for Depression",
+        "url": "https://www.youtube.com/watch?v=DF1by-x1R0o"
+      },
+      {
+        "title": "Yoga for Self-Care",
+        "url": "https://www.youtube.com/watch?v=tdRzQ9fPEeM"
+      },
+      {
+        "title": "Body Scan Meditation",
+        "url": "https://www.youtube.com/watch?v=wk32yAJPZVI"
+      },
+      {
+        "title": "Coping Skills for Anxiety",
+        "url": "https://www.youtube.com/watch?v=X9vbx6zg6G8"
+      },
+      {
+        "title": "Understanding Post-Traumatic Stress Disorder (PTSD)",
+        "url": "https://www.youtube.com/watch?v=90stFJqB6Ss"
+      },
+      {
+        "title": "Yoga for Better Sleep",
+        "url": "https://www.youtube.com/watch?v=gCzgc_RelBA"
+      },
+      {
+        "title": "Deep Relaxation Meditation",
+        "url": "https://www.youtube.com/watch?v=PrSajq4e1ks"
+      },
+      {
+        "title": "How to Help Someone with Depression",
+        "url": "https://www.youtube.com/watch?v=GJhr8hN7F8Q"
+      },
+      {
+        "title": "Chair Yoga for Seniors",
+        "url": "https://www.youtube.com/watch?v=qgRzLc8UzwY"
+      },
+      {
+        "title": "Mindfulness Meditation for Stress Reduction",
+        "url": "https://www.youtube.com/watch?v=j6fES6m4y4o"
+      },
+      {
+        "title": "Yoga for Back Pain Relief",
+        "url": "https://www.youtube.com/watch?v=dioGnyeGnB0"
+      },
+      {
+        "title": "Breathing Techniques for Anxiety",
+        "url": "https://www.youtube.com/watch?v=9xqYjhxW_9Q"
+      },
+      {
+        "title": "Meditation for Calming the Mind",
+        "url": "https://www.youtube.com/watch?v=wqEM_jlDRZI"
+      },
+      {
+        "title": "Overcoming Negative Thinking",
+        "url": "https://www.youtube.com/watch?v=qXqLDheCRgQ"
+      },
+      {
+        "title": "Yoga for Flexibility: Beginner's Routine",
+        "url": "https://www.youtube.com/watch?v=5oKMcM4CIzY"
+      },
+      {
+        "title": "Guided Meditation for Anxiety and Stress",
+        "url": "https://www.youtube.com/watch?v=H5J5DnzA5P0"
+      },
+      {
+        "title": "Understanding Obsessive-Compulsive Disorder (OCD)",
+        "url": "https://www.youtube.com/watch?v=CGyW1Rp1Y2g"
+      },
+      {
+        "title": "Yoga for Digestion",
+        "url": "https://www.youtube.com/watch?v=9YUtLbG-rs8"
+      },
+      {
+        "title": "Mindfulness Meditation for Self-Compassion",
+        "url": "https://www.youtube.com/watch?v=sz7cpV7ERsM"
+      },
+      {
+        "title": "Coping Strategies for Depression",
+        "url": "https://www.youtube.com/watch?v=1EuOXlo_dro"
+      },
+      {
+        "title": "Chair Yoga for Office Workers",
+        "url": "https://www.youtube.com/watch?v=-XqLtBRutx4"
+      },
+      {
+        "title": "Guided Progressive Muscle Relaxation",
+        "url": "https://www.youtube.com/watch?v=ihO02wUzgkc"
+      },
+      {
+        "title": "Yoga for Stress and Anxiety Relief",
+        "url": "https://www.youtube.com/watch?v=Y80gIVK6cIw"
+      },
+      {
+        "title": "Introduction to Mindfulness-Based Cognitive Therapy",
+        "url": "https://www.youtube.com/watch?v=1fq8PLTHz7s"
+      },
+      {
+        "title": "Coping with Grief and Loss",
+        "url": "https://www.youtube.com/watch?v=Ic6a9oScLo8"
+      },
+      {
+        "title": "Yoga for Weight Loss: 20 Minute Fat Burning Flow",
+        "url": "https://www.youtube.com/watch?v=6IBpmO9wZaA"
+      },
+      {
+        "title": "Guided Meditation for Inner Peace",
+        "url": "https://www.youtube.com/watch?v=vyh9safpHP8"
+      },
+      {
+        "title": "Understanding Generalized Anxiety Disorder (GAD)",
+        "url": "https://www.youtube.com/watch?v=Ve3uNypEriQ"
+      },
+      {
+        "title": "Yoga for Focus and Concentration",
+        "url": "https://www.youtube.com/watch?v=duZyUOo6xLY"
+      },
+      {
+        "title": "Breathing Meditation for Relaxation",
+        "url": "https://www.youtube.com/watch?v=pWY8UsCmUuU"
+      }
+    ],
+    "websites": [
+      {
+        "title": "National Institute of Mental Health",
+        "url": "https://www.nimh.nih.gov"
+      },
+      {
+        "title": "Anxiety and Depression Association of America",
+        "url": "https://adaa.org"
+      },
+      {
+        "title": "Mental Health America",
+        "url": "https://www.mhanational.org"
+      },
+      {
+        "title": "Headspace",
+        "url": "https://www.headspace.com"
+      },
+      {
+        "title": "Calm",
+        "url": "https://www.calm.com"
+      },
+      {
+        "title": "Yoga with Adriene",
+        "url": "https://www.youtube.com/user/yogawithadriene"
+      },
+      {
+        "title": "Mindful",
+        "url": "https://www.mindful.org"
+      },
+      {
+        "title": "The Anxiety Coach",
+        "url": "https://www.anxietycoach.com"
+      },
+      {
+        "title": "Depression and Bipolar Support Alliance",
+        "url": "https://www.dbsalliance.org"
+      },
+      {
+        "title": "Yoga Journal",
+        "url": "https://www.yogajournal.com"
+      },
+      {
+        "title": "Greater Good Magazine",
+        "url": "https://greatergood.berkeley.edu"
+      },
+      {
+        "title": "Psychology Today",
+        "url": "https://www.psychologytoday.com"
+      },
+      {
+        "title": "The American Institute of Stress",
+        "url": "https://www.stress.org"
+      },
+      {
+        "title": "Yoga International",
+        "url": "https://yogainternational.com"
+      },
+      {
+        "title": "Healing From Depression",
+        "url": "https://www.healingfromdepression.com"
+      },
+      {
+        "title": "Meditation Oasis",
+        "url": "https://www.meditationoasis.com"
+      },
+      {
+        "title": "Breathing Space",
+        "url": "https://www.breathingspace.com"
+      },
+      {
+        "title": "The Mindfulness Solution",
+        "url": "https://www.mindfulness-solution.com"
+      },
+      {
+        "title": "Yoga Glo",
+        "url": "https://www.yogaglo.com"
+      },
+      {
+        "title": "HelpGuide",
+        "url": "https://www.helpguide.org"
+      },
+      {
+        "title": "Black Dog Institute",
+        "url": "https://www.blackdoginstitute.org.au"
+      },
+      {
+        "title": "The Chopra Center",
+        "url": "https://chopra.com"
+      },
+      {
+        "title": "Mind",
+        "url": "https://www.mind.org.uk"
+      },
+      {
+        "title": "Yoga Basics",
+        "url": "https://www.yogabasics.com"
+      },
+      {
+        "title": "Beyond Blue",
+        "url": "https://www.beyondblue.org.au"
+      },
+      {
+        "title": "The Calm Clinic",
+        "url": "https://www.calmclinic.com"
+      },
+      {
+        "title": "Yoga Today",
+        "url": "https://www.yogatoday.com"
+      },
+      {
+        "title": "Mental Health Foundation",
+        "url": "https://www.mentalhealth.org.uk"
+      },
+      {
+        "title": "Yoga Alliance",
+        "url": "https://www.yogaalliance.org"
+      },
+      {
+        "title": "Anxiety Canada",
+        "url": "https://www.anxietycanada.com"
+      },
+      {
+        "title": "Mindful Schools",
+        "url": "https://www.mindfulschools.org"
+      },
+      {
+        "title": "Yoga Download",
+        "url": "https://www.yogadownload.com"
+      },
+      {
+        "title": "Recovery International",
+        "url": "https://recoveryinternational.org"
+      },
+      {
+        "title": "Yoga for Healthy Aging",
+        "url": "https://www.yogaforhealthyaging.com"
+      },
+      {
+        "title": "HeadsUpGuys",
+        "url": "https://headsupguys.org"
+      },
+      {
+        "title": "Yoga Alliance Australia",
+        "url": "https://www.yogaaustralia.org.au"
+      },
+      {
+        "title": "Blurt Foundation",
+        "url": "https://www.blurtitout.org"
+      },
+      {
+        "title": "The Art of Living",
+        "url": "https://www.artofliving.org"
+      },
+      {
+        "title": "Yoga Journal Australia",
+        "url": "https://www.yogajournal.com.au"
+      },
+      {
+        "title": "MoodGYM",
+        "url": "https://moodgym.com.au"
+      },
+      {
+        "title": "Yoga Australia",
+        "url": "https://www.yogaaustralia.org.au"
+      },
+      {
+        "title": "Heads Together",
+        "url": "https://www.headstogether.org.uk"
+      },
+      {
+        "title": "The Yoga Institute",
+        "url": "https://theyogainstitute.org"
+      },
+      {
+        "title": "Mood Juice",
+        "url": "https://www.moodjuice.scot.nhs.uk"
+      },
+      {
+        "title": "Yoga Health Foundation",
+        "url": "https://yogahealthfoundation.org"
+      },
+      {
+        "title": "Centre for Clinical Interventions",
+        "url": "https://www.cci.health.wa.gov.au"
+      }
+    ]
+  }
+  
